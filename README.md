@@ -19,8 +19,10 @@ Lick is a tool for automatically checking the compatibility of your software lic
 
 * Automatically detect your license, and the license of libraries you use.
 
-# Todo    
+# Todo
 
+* Generate a JSON-file with licenses from tldrlegal.com.
+* Score license files against a repository of licenses (e.g. from tldrlegal.com) and use that to guess what license is being used.
 * Check compatibility of your license, against the license of the libraries you use.
 * Track changes in licenses.
 * Resolve licenses and libraries from common package managers (npm, NuGet)
