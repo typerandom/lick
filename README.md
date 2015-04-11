@@ -7,6 +7,12 @@ Lick is a tool for automatically checking the compatibility of your software lic
 
     $ ./lick [src root path]
 
+### Example
+
+`cd` to `./examples/nodejs_app/` and run `npm install` then execute lick as below:
+
+    $ ./lick ./examples/nodejs_app/
+
 # Features
 
 * Automatically detect your license, and the license of libraries you use.
