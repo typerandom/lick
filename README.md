@@ -3,6 +3,8 @@ lick (license check)
 
 Lick is a tool for automatically checking the compatibility of your software license, against the license of the libraries you use.
 
+**NOTE: WORK IN PROGRESS! CURRENTLY ONLY OUTPUTS GRAPH OF LICENSES, BUT DOES NOT CHECK THE COMPATIBILITY BETWEEN THEM.**
+
 # Use
 
     $ ./lick [src root path]
