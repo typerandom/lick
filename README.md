@@ -1,7 +1,7 @@
 lick (license check)
 -----------------------------
 
-Lick is a tool for automatically checking the compatibility of your license, against the license of libraries you use.
+Lick is a tool for automatically checking the compatibility of your software license, against the license of the libraries you use.
 
 # Use
 
