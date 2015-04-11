@@ -1,0 +1,1 @@
+go build && ./lick ./examples/nodejs_app/

@@ -1,0 +1,14 @@
+{
+  "license": "mit",
+  "dependencies": {
+    "express": "^4.12.3",
+    "express-oauth": "^1.0.1",
+    "express-params": "0.0.3",
+    "express-session": "^1.11.1",
+    "express-validator": "^2.9.0",
+    "haredis": "^0.2.15",
+    "redis": "^0.12.1",
+    "request": "^2.55.0",
+    "request-promise": "^0.4.1"
+  }
+}
