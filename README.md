@@ -27,6 +27,8 @@ Lick is a tool for automatically checking the compatibility of your software lic
 * Track changes in licenses.
 * Resolve licenses and libraries from common package managers (npm, NuGet)
 * Compile all licenses into a single text file.
+* Detect licenses from the same company/author.
+* Extract licenses from source code comments.
 
 # License
 
